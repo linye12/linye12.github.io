@@ -8,7 +8,7 @@
     <link href="/2022/04/20/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97/"/>
     <url>/2022/04/20/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97/</url>
     
-    <content type="html"><![CDATA[<p>##大字标题</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我的名字"><a href="#我的名字" class="headerlink" title="我的名字"></a>我的名字</h1>]]></content>
     
     
     
@@ -34,7 +34,7 @@
     <link href="/2022/04/20/%E6%9C%89%E6%81%83%E6%97%A0%E6%81%90/"/>
     <url>/2022/04/20/%E6%9C%89%E6%81%83%E6%97%A0%E6%81%90/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>今天是2022年4月20号11点06分</p>]]></content>
     
     
     
